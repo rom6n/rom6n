@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/Clean%20Architecture-1E2326?style=for-the-badge&logo=awsorganizations&logoColor=white" alt="Clean Architecture">
 </p>
 
-<h3 align="center">🐍 Commits </h3>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rom6n/rom6n/output/github-contribution-grid-snake-dark.svg">
@@ -23,15 +21,6 @@
   </picture>
 </p>
 
-<h3 align="center">📊 Stats </h3>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rom6n/rom6n/main/github-metrics.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rom6n/rom6n/main/github-metrics.svg">
-    <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/rom6n/rom6n/main/github-metrics.svg">
-  </picture>
-</p>
 
 ---
 <p align="center">
